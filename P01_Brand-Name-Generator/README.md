@@ -8,5 +8,5 @@
 
 #5. Make sure the input cursor shows on a new line:
 
-# Solution: 
+# Solution: https://github.com/muratdurak91/python/blob/main/P01_Brand-Name-Generator/main.py
 
