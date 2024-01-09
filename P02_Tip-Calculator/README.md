@@ -37,4 +37,4 @@ Each person should pay: $19.93
 
 # Solution
 
-https://github.com/fatiyildiz/Python/blob/main/P-05-Tip-Calculator/main.py
+https://github.com/muratdurak91/python/blob/main/P02_Tip-Calculator/main.py
