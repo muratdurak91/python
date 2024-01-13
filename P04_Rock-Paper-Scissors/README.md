@@ -30,3 +30,5 @@ So what's going on? Can you debug the code and fix it?
 
 # Solution to the debugging challenge
 
+https://github.com/muratdurak91/python/blob/main/P04_Rock-Paper-Scissors/main.py
+
